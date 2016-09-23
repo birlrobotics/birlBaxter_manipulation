@@ -1,0 +1,12 @@
+[submodule "birl_kinematics/baxter_pykdl"]
+	path = birl_kinematics/baxter_pykdl
+	url = https://github.com/RethinkRobotics/baxter_pykdl.git
+[submodule "birl_kinematics/trac_ik"]
+	path = birl_kinematics/trac_ik
+	url = https://rojas70@bitbucket.org/rojas70/trac_ik.git
+[submodule "birl_kinematics/trac_ik_baxter"]
+	path = birl_kinematics/trac_ik_baxter
+	url = https://github.com/baxter-flowers/trac_ik_baxter.git
+[submodule "birl_motion_planning/baxter_moveit_stomp_trac_ik_config"]
+	path = birl_motion_planning/baxter_moveit_stomp_trac_ik_config
+	url = https://github.com/birlrobotics/baxter_moveit_stomp_trac_ik_config.git
